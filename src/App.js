@@ -16,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Learn React Chumps & Chumpettes or not see if i care? do you even git bro?
           my code is out to ruin your codes day
           Learn React Chumps & Chumpettes
           {
@@ -24,6 +25,7 @@ function App() {
             ))
           }
         </a>
+        <p>do you even <strong>G</strong>it</p>
       </header>
     </div>
   );
