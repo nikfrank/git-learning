@@ -16,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          my code is out to ruin your codes day
           Learn React Chumps & Chumpettes
           {
             Array(100).fill(0).map((b, i)=> (
