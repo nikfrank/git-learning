@@ -25,7 +25,7 @@ function App() {
             ))
           }
         </a>
-        <p>do you even <strong>G</strong>it</p>
+        <p>do you even <span className="bold">G</span>it</p>
       </header>
     </div>
   );
