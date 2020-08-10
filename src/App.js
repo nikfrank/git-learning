@@ -17,6 +17,11 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React Chumps & Chumpettes
+          {
+            Array(100).fill(0).map((b, i)=> (
+              <div key={i}>{b}</div>
+            ))
+          }
         </a>
       </header>
     </div>
