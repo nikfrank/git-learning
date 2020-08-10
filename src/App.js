@@ -16,7 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+<<<<<<< HEAD
           my code is out to ruin your codes day
+=======
+          Learn React Chumps & Chumpettes
+>>>>>>> c2e6da7da56013b82c45cbb2de145b41811aa7ed
         </a>
       </header>
     </div>
